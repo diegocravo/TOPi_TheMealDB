@@ -18,7 +18,7 @@
     <li>Has a search bar to search for the meals</l1>
     <li>Cool design</l1>
     <li>Readable code</l1>
-    <li>Unit tests avaliable at: </l1>
+    <li>Unit tests avaliable at: https://github.com/diegocravo/TOPi_TheMealDB_Tests</l1>
 </ul>
 
 - Make your repo private and add the following e-mails for reviewing the code after you finish the test:

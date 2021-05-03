@@ -9,7 +9,7 @@
 
 <h2>More About the web application</h2>
 <ul>
-    <li>Deployed at Vercel</l1>
+    <li>Deployed at Vercel - https://topi-meal-recipes.vercel.app/</l1>
     <li>Uses firebase firestore to save searched words (meals)</l1>
     <li>Developed in plain html, css, javascript</l1>
     <li>Loads a random list of meals when entering the site</l1>
@@ -20,6 +20,3 @@
     <li>Readable code</l1>
     <li>Unit tests avaliable at: https://github.com/diegocravo/TOPi_TheMealDB_Tests</l1>
 </ul>
-
-- Make your repo private and add the following e-mails for reviewing the code after you finish the test:
-  rafael.colatusso@topi.io, eduardo.carvalho@topi.io, oseas.tormen@topi.io, watson.marconato@topi.io

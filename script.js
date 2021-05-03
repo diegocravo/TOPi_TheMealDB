@@ -54,7 +54,6 @@ searchLetter.innerHTML = html;
 // Get Recipe List by First Letter
 function getMealByFirstLetter(e) {
   let mealLetter = e.target.dataset.id;
-  console.log(mealLetter);
   fetch(`https://www.themealdb.com/api/json/v1/1/search.php?f=${mealLetter}`)
     .then((response) => response.json())
     .then((data) => {
@@ -156,7 +155,6 @@ function getMealRecipe(e) {
 
 //create modal
 function mealRecipeModal(meal) {
-  console.log(meal);
   meal = meal[0];
   let html = `
     <h2 class="recipe-title">${meal.strMeal}</h2>
